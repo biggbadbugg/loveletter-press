@@ -22,4 +22,4 @@ jobs:
         cleanup: true
         neocities_supporter: false
         preview_before_deploy: true
-        dist_dir: dist
+        dist_dir: hotchickhell
